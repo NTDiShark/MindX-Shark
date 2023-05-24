@@ -1,0 +1,32 @@
+const TASKS = [
+  {
+    id: 1,
+    task: 'Đi làm tại công ty',
+    isCompleted: false,
+  },
+  {
+    id: 2,
+    task: 'Nấu cơm',
+    isCompleted: false,
+  },
+  {
+    id: 4,
+    task: 'Giặt đồ',
+    isCompleted: false,
+  },
+  {
+    id: 6,
+    task: 'Đi dạo với gấu',
+    isCompleted: false,
+  },
+  {
+    id: 9,
+    task: 'Xem phim',
+    isCompleted: false,
+  },
+  {
+    id: 10,
+    task: 'Học lập trình ReactJS',
+    isCompleted: false,
+  },
+]
